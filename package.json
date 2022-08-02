@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "release-log": "lerna publish --conventional-commits"
+    "release-log": "lerna publish"
   },
   "devDependencies": {
     "lerna": "^4.0.0"
